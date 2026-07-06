@@ -1,6 +1,6 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-06 16:57 CEST",
+    "updatedAt": "2026-07-06 16:58 CEST",
     "briefingFinished": "2026-07-06T11:57:08"
   },
   "daily": {
