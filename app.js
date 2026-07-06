@@ -1,6 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-06 17:05 CEST",
+    "updatedAt": "2026-07-07 00:19 CEST",
+    "build": "202607070019",
     "briefingFinished": "2026-07-06T11:57:08"
   },
   "daily": {
@@ -562,6 +563,19 @@ renderLinks();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js").catch(() => {});
+    navigator.serviceWorker.register("./sw.js?v=202607070019").then(registration => {
+      if (registration.waiting) {
+        registration.waiting.postMessage({ type: "SKIP_WAITING" });
+      }
+      registration.addEventListener("updatefound", () => {
+        const worker = registration.installing;
+        if (!worker) return;
+        worker.addEventListener("statechange", () => {
+          if (worker.state === "installed" && navigator.serviceWorker.controller) {
+            worker.postMessage({ type: "SKIP_WAITING" });
+          }
+        });
+      });
+    }).catch(() => {});
   });
 }
