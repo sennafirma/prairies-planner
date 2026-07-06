@@ -1,11 +1,13 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-06 16:58 CEST",
+    "updatedAt": "2026-07-06 17:05 CEST",
     "briefingFinished": "2026-07-06T11:57:08"
   },
   "daily": {
     "do": [
+      "Check the Events tab for this week's theatre, music, night market, and Bastille Day options.",
       "Check the week's on-site events at reception or in the Riviera Villages app.",
+      "If you want live music without driving, watch for Plage de Rock at Les Prairies de la Mer on 8, 16, 23, and 30 July.",
       "Book or check the boat to Saint-Tropez before the day gets busy.",
       "Go to Port Grimaud market early on Thursday or Sunday.",
       "Choose one lazy on-site day: beach, pool, no car.",
@@ -104,6 +106,100 @@ const source = {
           "tags": [
             "Sources",
             "Verify"
+          ]
+        }
+      ]
+    },
+    "events": {
+      "title": "Local Events",
+      "kicker": "Official agenda picks",
+      "cards": [
+        {
+          "label": "6-9 Jul",
+          "title": "Rire aux etoiles",
+          "text": "Free summer theatre festival in Grimaud, listed for 6-9 July 2026 around 21:30. Easy evening option if you want village atmosphere after the heat drops.",
+          "type": "anchor",
+          "tags": [
+            "Grimaud",
+            "Theatre",
+            "Free"
+          ]
+        },
+        {
+          "label": "8 Jul + Thu",
+          "title": "Plage de Rock",
+          "text": "Rock, folk, and indie-pop concerts at Camping Les Prairies de la Mer. Listed on 8 July and Thursdays 16, 23, and 30 July 2026; free entry.",
+          "type": "anchor",
+          "tags": [
+            "On site",
+            "Music",
+            "Evening"
+          ]
+        },
+        {
+          "label": "Jul-Aug",
+          "title": "Port Grimaud night craft market",
+          "text": "The official Grimaud agenda lists a night artisan market in Port Grimaud from 1 July to 31 August. Good low-effort evening wander after dinner.",
+          "type": "nearby",
+          "tags": [
+            "Port Grimaud",
+            "Market",
+            "Night"
+          ]
+        },
+        {
+          "label": "6 Jul-14 Aug",
+          "title": "Summer sports activities",
+          "text": "Grimaud Town Hall sports programme lists beach walking, aquagym, water activities, climbing for children, and more. Download/check the official timetable before going.",
+          "type": "nearby",
+          "tags": [
+            "Active",
+            "Kids",
+            "Check times"
+          ]
+        },
+        {
+          "label": "14 Jul",
+          "title": "Bastille Day in Grimaud",
+          "text": "Grimaud lists a National Day ceremony plus a festive evening with craft market, theatre sketches, food court, and guinguette-style dance party.",
+          "type": "context",
+          "tags": [
+            "Grimaud",
+            "Festive",
+            "Evening"
+          ]
+        },
+        {
+          "label": "16/23/30 Jul",
+          "title": "Cine au chateau",
+          "text": "Outdoor cinema at Grimaud castle is listed on 16, 23, and 30 July, then again in August. Good if the forecast is mild and the group wants a simple night out.",
+          "type": "context",
+          "tags": [
+            "Castle",
+            "Cinema",
+            "Night"
+          ]
+        },
+        {
+          "label": "21 & 28 Jul",
+          "title": "Les Grimaldines",
+          "text": "Festival evenings in Grimaud with street performances followed by concerts at the castle around 22:00. Tickets are sold through the tourist office/site.",
+          "type": "anchor",
+          "tags": [
+            "Concert",
+            "Ticketed",
+            "Grimaud"
+          ]
+        },
+        {
+          "label": "17-18 Jul",
+          "title": "Festival Isabelle",
+          "text": "Saint-Tropez listing shows Festival Isabelle on 17-18 July, 18:00-02:00, with paid entry. Treat as a more deliberate night-out plan.",
+          "type": "context",
+          "tags": [
+            "Saint-Tropez",
+            "Paid",
+            "Late"
           ]
         }
       ]
@@ -340,6 +436,22 @@ const source = {
     }
   },
   "links": [
+    [
+      "Grimaud Tourism events agenda",
+      "https://www.grimaud-provence.com/preparez/agenda/tout-lagenda/"
+    ],
+    [
+      "Grimaud 2026 highlights",
+      "https://www.grimaud-provence.com/espace-pro/actualites/les-temps-forts-2026/"
+    ],
+    [
+      "Plage de Rock at Les Prairies",
+      "https://www.visitgrimaud.co.uk/plan/events/events-calendar/plage-de-rock-grimaud-en-3234381/"
+    ],
+    [
+      "Saint-Tropez events calendar",
+      "https://www.sainttropeztourisme.com/en/events-in-saint-tropez/agenda-evenements-saint-tropez/"
+    ],
     [
       "Riviera Villages resort page",
       "https://en.riviera-villages.com/Les-Prairies-de-la-Mer/Le-Resort"
