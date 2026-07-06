@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#0d5c63">
+    <meta name="description" content="A public, sanitized mobile guide for Camping Les Prairies de la Mer, Port Grimaud, Grimaud, and Saint-Tropez.">
+    <title>Prairies Planner</title>
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="hero">
+      <img src="assets/hero-prairies.png" alt="Illustrated Mediterranean beach and bay near Port Grimaud" class="hero__image">
+      <div class="hero__overlay"></div>
+      <nav class="topbar" aria-label="Primary">
+        <strong>Prairies Planner</strong>
+        <a href="#links">Links</a>
+      </nav>
+      <div class="hero__content">
+        <p class="eyebrow">Public trip guide</p>
+        <h1>Les Prairies de la Mer</h1>
+        <p>Beach rhythm, Port Grimaud canals, Saint-Tropez by boat, markets, history, and simple daily ideas.</p>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="daily-panel" aria-labelledby="daily-title">
+        <div>
+          <p class="eyebrow">Today</p>
+          <h2 id="daily-title">Do / Explore / Know</h2>
+        </div>
+        <div id="dailySuggestion" class="daily-grid"></div>
+      </section>
+
+      <section class="tabs" aria-label="Planner views">
+        <button class="tab is-active" type="button" data-view="agenda">Agenda</button>
+        <button class="tab" type="button" data-view="do">Do</button>
+        <button class="tab" type="button" data-view="food">Food</button>
+        <button class="tab" type="button" data-view="history">Know</button>
+        <button class="tab" type="button" data-view="packing">Pack</button>
+      </section>
+
+      <section id="content" class="content-view" aria-live="polite"></section>
+
+      <section id="links" class="links-section" aria-labelledby="links-title">
+        <div class="section-head">
+          <p class="eyebrow">Refresh before committing</p>
+          <h2 id="links-title">Official Links</h2>
+        </div>
+        <div id="officialLinks" class="link-list"></div>
+      </section>
+
+      <section class="privacy-note" aria-labelledby="privacy-title">
+        <h2 id="privacy-title">Public-Safe Version</h2>
+        <p>This app intentionally excludes booking references, private logistics, payment details, personal notes, and live trip notes. Recheck official sources for opening times, prices, and event changes.</p>
+      </section>
+    </main>
+
+    <footer>
+      <span>Install on iPhone: Safari share icon, then Add to Home Screen.</span>
+    </footer>
+
+    <script src="app.js" type="module"></script>
+  </body>
+</html>
