@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-06 17:05 CEST",
-    "briefingFinished": "2026-07-06T11:57:08"
+    "updatedAt": "2026-07-07 09:15 CEST",
+    "briefingFinished": "2026-07-07T09:04:04"
   },
   "daily": {
     "do": [
@@ -40,8 +40,8 @@ const source = {
       "cards": [
         {
           "label": "Updated",
-          "title": "Doen vandaag",
-          "text": "1. Theaterfestival \"Rire aux \u00e9toiles\" (Grimaud, 20:00\u201322:00) \u2013 Humoristische voorstellingen in het openluchttheater. Bron: Grimaud Tourisme. 2. Markt in Port Grimaud (zondagochtend, 8:00\u201313:00) \u2013 Vandaag geen markt, maar check morgen (zondag 6 juli) voor lokale producten. Bron: Agenda Port Grimaud. 3. Bezoek aan de kerk in Port Grimaud \u2013 Gratis wandeling door de historische citadel en uitzichttoren. Bron: Dossier-notities. 4. Wateractiviteiten \u2013 Vraag bij ",
+          "title": "Fresh briefing",
+          "text": "Doen vandaag 1. Theaterfestival Rire aux \u00e9toiles in Grimaud (tot 9 juli) - Waar: Kioskuur op Place Neuve, Grimaud - Waarom: Komische toneelstukken zoals \u201cL\u2019amour est dans le presque\u201d (vandaag) en \u201cUn stylo dans la t\u00eate\u201d (morgen). - Bron: grimaud-provence.com 2. Plage de Rock op de camping (8, 16, 23, 30 juli) - Waar: Strand van Les Prairies de la Mer - Waarom: Live muziek bij het zwembad/strand, ideaal voor ontspanning. - Tip: Reserveren aanbevolen via de ",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -50,49 +50,9 @@ const source = {
         },
         {
           "label": "Updated",
-          "title": "Verkennen",
-          "text": "Port Grimaud per boot \u2013 Neem een elektrische boot of water taxi om de kanalen te verkennen. - Grimauds middeleeuwse dorp \u2013 Bezoek het kasteel en wandel door de smalle straatjes. - Saint-Tropez \u2013 Bezoek de oude haven of de Citadel (reserveren aangeraden).",
+          "title": "Agenda-links",
+          "text": "Grimaud Tourisme - Saint-Tropez Tourisme - Riviera Villages app voor lokale evenementen. Tip van de dag: Loop langs de stranden van Port Grimaud voor 9:00 voor rustige lucht en koele temperaturen.",
           "type": "anchor",
-          "tags": [
-            "Daily",
-            "Verify locally"
-          ]
-        },
-        {
-          "label": "Updated",
-          "title": "Weten",
-          "text": "Port Grimaud werd gebouwd vanaf 1966 door architect Fran\u00e7ois Spoerry op voormalig moerasland. Het wordt \"De Kleine Veneti\u00eb van Provence\" genoemd.",
-          "type": "context",
-          "tags": [
-            "Daily",
-            "Verify locally"
-          ]
-        },
-        {
-          "label": "Updated",
-          "title": "Met kinderen",
-          "text": "1. \"L'heure du conte\" (Grimaud, 11 juli, 16:00) \u2013 Verhalenavond voor kinderen in het dorp. Bron: Agenda Grimaud. 2. Golfcursus voor kinderen (Golf Up, 1\u201331 juli) \u2013 Inschrijven via de campingreceptie. 3. Strandactiviteiten \u2013 Speel met de kinderen in het zand of huur een bootje.",
-          "type": "context",
-          "tags": [
-            "Daily",
-            "Verify locally"
-          ]
-        },
-        {
-          "label": "Updated",
-          "title": "Let op",
-          "text": "Markten zijn druk op zondagochtend in Port Grimaud. Kom vroeg. - Reserveer boottochten naar Saint-Tropez vooraf, vooral in de zomer. - Hitte en verkeer \u2013 Plan activiteiten rond de koele uren (ochtend of avond). - Onzekerheden: De nachtmarkt in Port Grimaud (1\u201331 juli) is aangekondigd, maar exacte locatie en programma zijn onbekend. Vraag bij de receptie.",
-          "type": "context",
-          "tags": [
-            "Daily",
-            "Verify locally"
-          ]
-        },
-        {
-          "label": "Updated",
-          "title": "Volgende weken",
-          "text": "14 juli (maandag): Nationale feestceremonie en guinguetteconcert in Grimaud. - 15 juli: Feu d'artifice in Grimaud (19:30). - 21\u201328 juli: \"Les Grimaldines\"-festival met concerten (bijv. C\u0153ur de Pirate op 28 juli). - 10 juli: \"Soir\u00e9e Bardot\" in Saint-Tropez (reserveren aangeraden).",
-          "type": "context",
           "tags": [
             "Daily",
             "Verify locally"
