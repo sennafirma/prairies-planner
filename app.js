@@ -1,7 +1,6 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-08 09:15 CEST",
-    "build": "202607080915",
+    "updatedAt": "2026-07-08 16:19 CEST",
     "briefingFinished": "2026-07-08T09:10:10"
   },
   "daily": {
@@ -82,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "Markt in Port Grimaud is morgen (donderdag 10 juli) vroeg 's ochtends. - Hitte en drukte in piekseizoen: plan activiteiten rond koelere uren (vroeg 's ochtends of 's avonds). - Reserveren voor boottochten en restaurants is aan te raden. Bronnen: Dossiernotities + agenda\u2019s grimaud-provence.com, sainttropeztourisme.com. Geen verzonnen evenementen. Voor meer info: https://www.visitgolfe.com/agenda/",
+          "text": "Markt in Port Grimaud is morgen (donderdag 9 juli) vroeg 's ochtends. - Hitte en drukte in piekseizoen: plan activiteiten rond koelere uren (vroeg 's ochtends of 's avonds). - Reserveren voor boottochten en restaurants is aan te raden. Bronnen: Dossiernotities + agenda\u2019s grimaud-provence.com, sainttropeztourisme.com. Geen verzonnen evenementen. Voor meer info: https://www.visitgolfe.com/agenda/",
           "type": "context",
           "tags": [
             "Daily",
@@ -553,19 +552,6 @@ renderLinks();
 
 if ("serviceWorker" in navigator) {
   window.addEventListener("load", () => {
-    navigator.serviceWorker.register("./sw.js?v=202607070019").then(registration => {
-      if (registration.waiting) {
-        registration.waiting.postMessage({ type: "SKIP_WAITING" });
-      }
-      registration.addEventListener("updatefound", () => {
-        const worker = registration.installing;
-        if (!worker) return;
-        worker.addEventListener("statechange", () => {
-          if (worker.state === "installed" && navigator.serviceWorker.controller) {
-            worker.postMessage({ type: "SKIP_WAITING" });
-          }
-        });
-      });
-    }).catch(() => {});
+    navigator.serviceWorker.register("./sw.js").catch(() => {});
   });
 }
