@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-07 09:15 CEST",
-    "briefingFinished": "2026-07-07T09:04:04"
+    "updatedAt": "2026-07-08 09:15 CEST",
+    "briefingFinished": "2026-07-08T09:10:10"
   },
   "daily": {
     "do": [
@@ -40,8 +40,8 @@ const source = {
       "cards": [
         {
           "label": "Updated",
-          "title": "Fresh briefing",
-          "text": "Doen vandaag 1. Theaterfestival Rire aux \u00e9toiles in Grimaud (tot 9 juli) - Waar: Kioskuur op Place Neuve, Grimaud - Waarom: Komische toneelstukken zoals \u201cL\u2019amour est dans le presque\u201d (vandaag) en \u201cUn stylo dans la t\u00eate\u201d (morgen). - Bron: grimaud-provence.com 2. Plage de Rock op de camping (8, 16, 23, 30 juli) - Waar: Strand van Les Prairies de la Mer - Waarom: Live muziek bij het zwembad/strand, ideaal voor ontspanning. - Tip: Reserveren aanbevolen via de ",
+          "title": "Doen vandaag",
+          "text": "1. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) - Live muziek op het kampeerterrein. Bron: Dossiernotitie. 2. Sportieve activiteiten in Grimaud (Grimaud, tijden onbekend) - Check bij de receptie voor details. Bron: Agenda grimaud-provence.com. 3. Bootje naar Saint-Tropez - Reserveren aanrader om drukte te vermijden. Bron: Dossiernotitie.",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -50,9 +50,39 @@ const source = {
         },
         {
           "label": "Updated",
-          "title": "Agenda-links",
-          "text": "Grimaud Tourisme - Saint-Tropez Tourisme - Riviera Villages app voor lokale evenementen. Tip van de dag: Loop langs de stranden van Port Grimaud voor 9:00 voor rustige lucht en koele temperaturen.",
+          "title": "Verkennen",
+          "text": "Port Grimaud kanalen (water taxi of elektrische boot). - Grimauds middeleeuwse dorp en kasteel (uitkijkpunt). - Saint-Tropez per boot (oud haven, Citadel, Place des Lices).",
           "type": "anchor",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Weten",
+          "text": "Port Grimaud werd vanaf 1966 gebouwd door architect Fran\u00e7ois Spoerry uit moerasland. Bekend als de \"Kleine Veneti\u00eb van Provence\".",
+          "type": "context",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Met kinderen",
+          "text": "Bibliocr\u00e9a (Grimaud, vandaag, tijden onbekend) - Creatieve activiteiten voor kinderen. Bron: Agenda grimaud-provence.com.",
+          "type": "context",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Let op",
+          "text": "Markt in Port Grimaud is morgen (donderdag 10 juli) vroeg 's ochtends. - Hitte en drukte in piekseizoen: plan activiteiten rond koelere uren (vroeg 's ochtends of 's avonds). - Reserveren voor boottochten en restaurants is aan te raden. Bronnen: Dossiernotities + agenda\u2019s grimaud-provence.com, sainttropeztourisme.com. Geen verzonnen evenementen. Voor meer info: https://www.visitgolfe.com/agenda/",
+          "type": "context",
           "tags": [
             "Daily",
             "Verify locally"
