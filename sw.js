@@ -1,4 +1,4 @@
-const CACHE_NAME = "prairies-planner-202607090915";
+const CACHE_NAME = "prairies-planner-202607100915";
 const ASSETS = [
   "./",
   "./index.html",

@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-09 09:15 CEST",
-    "briefingFinished": "2026-07-09T09:04:17"
+    "updatedAt": "2026-07-10 09:15 CEST",
+    "briefingFinished": "2026-07-10T09:09:50"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "1. Rire aux \u00e9toiles - Festival de Th\u00e9\u00e2tre (Grimaud, 21:30). - Waarom? Gratis avondtheater in het historische dorp. - Bron: grimaud-provence.com 2. Markt Port Grimaud (vandaag, 8:00-13:00). - Waarom? Verse producten, kunsthandelaren en typisch Proven\u00e7aalse smaken. - Tip: Ga vroeg om te vermijden dat het druk wordt. 3. Plage de Rock (Les Prairies de la Mer, 18:00). - Waarom? Live muziek op het strand, alleen vandaag (8 juli) en 16/23/30 juli. - Reserveren? N",
+          "text": "1. Markt Port Grimaud (zondagochtend, 10:00-13:00): De markt op zondag is ideaal voor frisse producten en handgemaakte artikelen. 2. Plage de Rock (16 juli, 19:00): Live muziek op de camping zelf, kom vooraf reserveren. 3. Bezoek Grimaud kasteel (dagelijks open): Verkrijg uitzicht over het dorp en leer meer over de middeleeuwse geschiedenis. 4. Strandwandeling voor 9:00: Koele ochtendwandeling langs de kust voor het drukker wordt.",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Port Grimaud kanalen (loop of huur een elektrische boot). - Grimauds middeleeuwse dorp en kasteel (uitkijkpunt met uitzicht op het gat). - Saint-Tropez per boot (oud haven, Citadel en Place des Lices).",
+          "text": "Port Grimaud kanalen (water-taxi of elektrische boot): Ontdek de \"Veneti\u00eb van Provence\" per boot. - Grimaud middeleeuwse dorp (15 min rijden): Bezoek het kasteel en wandel door de smalle straatjes. - Saint-Tropez per boot (reserveren aangeraden): Bezoek het oude haven en wandel over de Place des Lices.",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Weten",
-          "text": "Port Grimaud werd tussen 1966 en 1976 gebouwd door architect Fran\u00e7ois Spoerry, die het ontwierp als een \"Proven\u00e7aanse Veneti\u00eb\" met kanalen, witte huizen en rode daken.",
+          "text": "Port Grimaud werd tussen 1966 en 1976 gebouwd door architect Fran\u00e7ois Spoerry. Het dorp is ontworpen als een \"Provence-Veneti\u00eb\" met kanalen, witte huizen en een centrale kerk.",
           "type": "context",
           "tags": [
             "Daily",
@@ -71,7 +71,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Golfles voor kinderen (Golf Up, 10:00-12:00, reserveren via receptie). - Ludotheek (Grimaud, 25 juli: gezelschapsspelletjes).",
+          "text": "Aquagym en aquajogging (17:00-18:00, strand Port Grimaud): Actieve activiteiten in het water. - Bezoek de markt (zondag): Kinderen kunnen proeven van lokale smaken en handen aan het werk met ambachten. - Beachwandelingen (elke dag): Rustige momenten bij het strand met uitzicht op het Golfe-de-St-Tropez.",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "Reserveer boten naar Saint-Tropez vroeg, de populariteit is hoog. - Markten: Port Grimaud is vandaag, Grimaud dorp is meestal op zondag. - Hitte: Plan activiteiten rond 9:00-11:00 of 16:00-18:00. - Onzekerheden: Controleer de agenda van de camping (receptie of Riviera Villages-app) voor laatste minuut updates. Bronnen: dossier-notities en gedeelte van grimaud-provence.com.",
+          "text": "Reserveren: Bootjes naar Saint-Tropez zijn populair, reserveren vroeg. - Markt en drukte: De markt in Port Grimaud is zondagochtend druk; kom vroeg aan. - Hitte en verkeer: In de zomer is het verkeer druk; plan reizen met de boot of fiets. Bronnen: Grimaud Tourisme, dossiernotities. Geen verzonnen evenementen. Vraag bij reception voor up-to-date info.",
           "type": "context",
           "tags": [
             "Daily",
