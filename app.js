@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-12 09:15 CEST",
-    "briefingFinished": "2026-07-12T09:03:55"
+    "updatedAt": "2026-07-13 09:15 CEST",
+    "briefingFinished": "2026-07-13T09:04:03"
   },
   "daily": {
     "do": [
@@ -41,8 +41,58 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "Doen vandaag 1. Port Grimaud-markt (vandaag, 9:00-13:00): Frisse producten, kunsthandenwerken en Provence-geuren. Begin vroeg voor minder drukte. 2. Nachtmarch\u00e9 in Port Grimaud (vandaag, 19:00-23:00): Lichte muziek, eten en drankjes onder de lantaarns. Ideaal voor een avondwandeling. 3. Plage de Rock op de camping (16 juli, 23:00): Check of dit live-muziekfeest op zondag 16 juli nog open is (zie dossier). 4. Strandwandeling (voor 9:00): Koel en rustig, met",
+          "text": "2026-07-13 (maandag) | 2026-07-14 (dinsdag)",
           "type": "anchor",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Doen vandaag",
+          "text": "1. Nachtmarkt in Port Grimaud (20:00-23:00) \u2013 Artisanale producten, eten en muziek. Bron: grimaud-provence.com 2. Plage de Rock op camping (16 juli, 20:00) \u2013 Gratis live muziek bij het zwembad. Bron: dossier 3. Strandwandeling voor 9:00 \u2013 Koele ochtendlichten en rustige stranden. Bron: dossier 4. Boek boot naar Saint-Tropez \u2013 Vermijd drukte, vooral rond 14 juli. Bron: dossier",
+          "type": "anchor",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Verkennen",
+          "text": "Port Grimaud per boot \u2013 Water-taxi of elektrische boot door de kanalen. - Grimauds middeleeuwse dorp en kasteel \u2013 Uitzichtpunt en geschiedenis. - Saint-Tropez \u2013 Bezoek de oude haven of La Citadelle per boot.",
+          "type": "context",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Weten",
+          "text": "Port Grimaud werd tussen 1966 en 1980 gebouwd op moerasgrond door architect Fran\u00e7ois Spoerry, bekend als de \"Little Venice of Provence\". Bron: dossier",
+          "type": "context",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Met kinderen",
+          "text": "Bootje huren naar Saint-Tropez (kindervriendelijke activiteiten). - Wateractiviteiten (stand-up paddle, snorkelen) bij de camping. - Nachtmarkt \u2013 Kleine cadeaus en snacks.",
+          "type": "context",
+          "tags": [
+            "Daily",
+            "Verify locally"
+          ]
+        },
+        {
+          "label": "Updated",
+          "title": "Let op",
+          "text": "Nachtmarkt Port Grimaud vandaag: kom vroeg voor beste keuzes. - 14 juli vuurwerk morgen: reserveren aan de kustrestaurant is aanbevolen. - Hitte en drukte: Plan activiteiten rond 10:00-16:00. - Markten: Port Grimaud\u2019s ochtendmarkt is donderdag en zondag (niet vandaag). Voor meer info: check de agenda op grimaud-provence.com of de on-site evenementen bij reception.",
+          "type": "context",
           "tags": [
             "Daily",
             "Verify locally"
