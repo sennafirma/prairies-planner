@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-13 09:15 CEST",
-    "briefingFinished": "2026-07-13T09:04:03"
+    "updatedAt": "2026-07-14 09:15 CEST",
+    "briefingFinished": "2026-07-14T09:02:54"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-13 (maandag) | 2026-07-14 (dinsdag)",
+          "text": "2026-07-14 | morgen 2026-07-15",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "1. Nachtmarkt in Port Grimaud (20:00-23:00) \u2013 Artisanale producten, eten en muziek. Bron: grimaud-provence.com 2. Plage de Rock op camping (16 juli, 20:00) \u2013 Gratis live muziek bij het zwembad. Bron: dossier 3. Strandwandeling voor 9:00 \u2013 Koele ochtendlichten en rustige stranden. Bron: dossier 4. Boek boot naar Saint-Tropez \u2013 Vermijd drukte, vooral rond 14 juli. Bron: dossier",
+          "text": "2. March\u00e9 artisanal nocturne in Port Grimaud (19:00-22:00, 14 juli) - Avondmarkt met lokale handwerkers en ambachten. Bron: grimaud-provence.com 3. Exposition du Lavoir Vasserot - YVON Estelle (10:00-19:00, 14 juli) - Kunsttentoonstelling in Saint-Tropez, compacte culturele stop. Bron: sainttropeztourisme.com",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Port Grimaud per boot \u2013 Water-taxi of elektrische boot door de kanalen. - Grimauds middeleeuwse dorp en kasteel \u2013 Uitzichtpunt en geschiedenis. - Saint-Tropez \u2013 Bezoek de oude haven of La Citadelle per boot.",
+          "text": "Port Grimaud per water - Neem een boot of water taxi door de kanalen van de \"Proven\u00e7ale Veneti\u00eb\". - Grimaud Art Urbain (14-30 juli) - Street-art festival, ideale wandeling voor een luchtige ochtend. Bron: grimaud-provence.com - Strandwandeling in Ramatuelle - Rustige promenade langs de zuidkust van het golfje. Bron: dossier-notities",
           "type": "context",
           "tags": [
             "Daily",
@@ -71,7 +71,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Weten",
-          "text": "Port Grimaud werd tussen 1966 en 1980 gebouwd op moerasgrond door architect Fran\u00e7ois Spoerry, bekend als de \"Little Venice of Provence\". Bron: dossier",
+          "text": "Port Grimaud is ontworpen vanaf 1966 door architect Fran\u00e7ois Spoerry, die het uit moerasland ontwikkelde tot een unieke lagunestad. Bron: dossier-notities",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Bootje huren naar Saint-Tropez (kindervriendelijke activiteiten). - Wateractiviteiten (stand-up paddle, snorkelen) bij de camping. - Nachtmarkt \u2013 Kleine cadeaus en snacks.",
+          "text": "Courses d'orientation in Grimaud (15:00, 14 juli) - Ori\u00ebntatiespelletje voor kinderen, gratis en educatief. Bron: grimaud-provence.com - Animations sportives estivales - Check bij de camping of er strandvoetbal of volleybal is. Bron: dossier-notities",
           "type": "context",
           "tags": [
             "Daily",
@@ -91,7 +91,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "Nachtmarkt Port Grimaud vandaag: kom vroeg voor beste keuzes. - 14 juli vuurwerk morgen: reserveren aan de kustrestaurant is aanbevolen. - Hitte en drukte: Plan activiteiten rond 10:00-16:00. - Markten: Port Grimaud\u2019s ochtendmarkt is donderdag en zondag (niet vandaag). Voor meer info: check de agenda op grimaud-provence.com of de on-site evenementen bij reception.",
+          "text": "14 juli avond: Er is vuurwerk en feestelijkheden in Grimaud en Saint-Tropez. Reserveer eetgelegenheden of bootjes vroeg. Bron: grimaud-provence.com / sainttropeztourisme.com - De markten in Port Grimaud zijn vandaag open, maar de drukte kan hoog zijn. Kom vroeg of laat. - Check bij de receptie of er nog activiteiten zijn gepland voor de week, zoals de \"Plage de Rock\"-muziek op de camping. Bron: dossier-notities",
           "type": "context",
           "tags": [
             "Daily",
