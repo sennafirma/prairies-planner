@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-14 09:15 CEST",
-    "briefingFinished": "2026-07-14T09:02:54"
+    "updatedAt": "2026-07-15 09:15 CEST",
+    "briefingFinished": "2026-07-15T09:03:30"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-14 | morgen 2026-07-15",
+          "text": "2026-07-15 | morgen 2026-07-16",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "2. March\u00e9 artisanal nocturne in Port Grimaud (19:00-22:00, 14 juli) - Avondmarkt met lokale handwerkers en ambachten. Bron: grimaud-provence.com 3. Exposition du Lavoir Vasserot - YVON Estelle (10:00-19:00, 14 juli) - Kunsttentoonstelling in Saint-Tropez, compacte culturele stop. Bron: sainttropeztourisme.com",
+          "text": "1. March\u00e9 artisanal nocturne in Port Grimaud (avond, 1 juli-31 augustus) - lokale kraampjes en avondwandeling. Bron: grimaud-provence.com 2. Animations sportives estivales \u00e0 Grimaud (6 juli-14 augustus) - check het dagprogramma voor strand/sportactiviteiten. Bron: grimaud-provence.com / mairie-grimaud.fr 3. Exposition du Lavoir Vasserot - YVON Estelle (9-15 juli, Saint-Tropez) - compacte culturele stop als je toch richting Saint-Tropez gaat. Bron: sainttro",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Port Grimaud per water - Neem een boot of water taxi door de kanalen van de \"Proven\u00e7ale Veneti\u00eb\". - Grimaud Art Urbain (14-30 juli) - Street-art festival, ideale wandeling voor een luchtige ochtend. Bron: grimaud-provence.com - Strandwandeling in Ramatuelle - Rustige promenade langs de zuidkust van het golfje. Bron: dossier-notities",
+          "text": "Grimaud Art Urbain (1 juli-31 augustus) - street-art route als laagdrempelige dorpswandeling. Bron: grimaud-provence.com - Saint-Tropez tentoonstellingen - o.a. Brigitte Bardot/Phare Bleu en Lavoir Vasserot, afhankelijk van drukte en bootplanning. Bron: sainttropeztourisme.com",
           "type": "context",
           "tags": [
             "Daily",
@@ -71,7 +71,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Weten",
-          "text": "Port Grimaud is ontworpen vanaf 1966 door architect Fran\u00e7ois Spoerry, die het uit moerasland ontwikkelde tot een unieke lagunestad. Bron: dossier-notities",
+          "text": "De agenda bevat veel doorlopende zomeritems; ik geef voortaan alleen items met datumrange of expliciete agenda-bron, geen losse dossier-herhaling.",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Courses d'orientation in Grimaud (15:00, 14 juli) - Ori\u00ebntatiespelletje voor kinderen, gratis en educatief. Bron: grimaud-provence.com - Animations sportives estivales - Check bij de camping of er strandvoetbal of volleybal is. Bron: dossier-notities",
+          "text": "Kies vandaag liever voor sport/strandactiviteit uit het zomerprogramma of de avondmarkt; check bij receptie of inschrijving nodig is.",
           "type": "context",
           "tags": [
             "Daily",
@@ -91,7 +91,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "14 juli avond: Er is vuurwerk en feestelijkheden in Grimaud en Saint-Tropez. Reserveer eetgelegenheden of bootjes vroeg. Bron: grimaud-provence.com / sainttropeztourisme.com - De markten in Port Grimaud zijn vandaag open, maar de drukte kan hoog zijn. Kom vroeg of laat. - Check bij de receptie of er nog activiteiten zijn gepland voor de week, zoals de \"Plage de Rock\"-muziek op de camping. Bron: dossier-notities",
+          "text": "Search was deels instabiel; directe agenda's van Grimaud en Saint-Tropez zijn leidend.",
           "type": "context",
           "tags": [
             "Daily",
@@ -101,7 +101,7 @@ const source = {
         {
           "label": "Sources",
           "title": "Checked local agenda pages",
-          "text": "18 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
+          "text": "17 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
           "type": "context",
           "tags": [
             "Sources",
