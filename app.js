@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-15 09:15 CEST",
-    "briefingFinished": "2026-07-15T09:03:30"
+    "updatedAt": "2026-07-16 09:15 CEST",
+    "briefingFinished": "2026-07-16T09:02:55"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-15 | morgen 2026-07-16",
+          "text": "2026-07-16 | morgen 2026-07-17",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "1. March\u00e9 artisanal nocturne in Port Grimaud (avond, 1 juli-31 augustus) - lokale kraampjes en avondwandeling. Bron: grimaud-provence.com 2. Animations sportives estivales \u00e0 Grimaud (6 juli-14 augustus) - check het dagprogramma voor strand/sportactiviteiten. Bron: grimaud-provence.com / mairie-grimaud.fr 3. Exposition du Lavoir Vasserot - YVON Estelle (9-15 juli, Saint-Tropez) - compacte culturele stop als je toch richting Saint-Tropez gaat. Bron: sainttro",
+          "text": "1. Cin\u00e9ma de plein air \u2013 Cin\u00e9 au ch\u00e2teau (21:30, Ch\u00e2teau de Grimaud) \u2013 Vandaag is het jeurdi, dus filmavond op het kasteel. Een unieke manier om een film te zien onder de sterren. Bron: mairie-grimaud.fr 2. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities 3. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Grimaud Art Urbain (1 juli-31 augustus) - street-art route als laagdrempelige dorpswandeling. Bron: grimaud-provence.com - Saint-Tropez tentoonstellingen - o.a. Brigitte Bardot/Phare Bleu en Lavoir Vasserot, afhankelijk van drukte en bootplanning. Bron: sainttropeztourisme.com",
+          "text": "Port Grimaud per boot of water taxi \u2013 Een rustige manier om de \"Proven\u00e7ale Veneti\u00eb\" te verkennen. - Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Saint-Tropez per boot \u2013 Richting de oude haven of Ramatuelle. Check de boottijden vroeg genoeg.",
           "type": "context",
           "tags": [
             "Daily",
@@ -71,7 +71,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Weten",
-          "text": "De agenda bevat veel doorlopende zomeritems; ik geef voortaan alleen items met datumrange of expliciete agenda-bron, geen losse dossier-herhaling.",
+          "text": "Port Grimaud is gebouwd op moerasland vanaf 1966, ontworpen door architect Fran\u00e7ois Spoerry. Het werd bedoeld als een \"proven\u00e7aanse havenstad\" met een sterk visuele identiteit. Bron: dossiernotities",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Kies vandaag liever voor sport/strandactiviteit uit het zomerprogramma of de avondmarkt; check bij receptie of inschrijving nodig is.",
+          "text": "Courses d\u2019orientation in Grimaud (17 juli, 10:00-12:00) \u2013 Actieve en educatieve activiteit in het dorp. Bron: grimaud-provence.com - Ludoth\u00e8que \u2013 Jeux de soci\u00e9t\u00e9 (25 juli, 15:00-17:00) \u2013 Speelavond voor kinderen, reserveren is aanbevolen. Bron: dossiernotities",
           "type": "context",
           "tags": [
             "Daily",
@@ -91,7 +91,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "Search was deels instabiel; directe agenda's van Grimaud en Saint-Tropez zijn leidend.",
+          "text": "De markten in Port Grimaud (elke zondag en donderdagochtend) zijn druk in de zomer. Kom vroeg als je een rustige ervaring wil. - De zon is sterk, dus zorg voor zonnecr\u00e8me, water en schaduw. - Check bij de receptie of er extra activiteiten zijn op de camping vandaag of morgen. - De agenda\u2019s van Grimaud en Saint-Tropez zijn betrouwbaar, maar sommige links zijn tijdelijk onbereikbaar.",
           "type": "context",
           "tags": [
             "Daily",
@@ -101,7 +101,7 @@ const source = {
         {
           "label": "Sources",
           "title": "Checked local agenda pages",
-          "text": "17 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
+          "text": "18 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
           "type": "context",
           "tags": [
             "Sources",
