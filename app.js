@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-16 09:15 CEST",
-    "briefingFinished": "2026-07-16T09:02:55"
+    "updatedAt": "2026-07-17 09:15 CEST",
+    "briefingFinished": "2026-07-17T09:03:28"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-16 | morgen 2026-07-17",
+          "text": "2026-07-17 | morgen 2026-07-18",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "1. Cin\u00e9ma de plein air \u2013 Cin\u00e9 au ch\u00e2teau (21:30, Ch\u00e2teau de Grimaud) \u2013 Vandaag is het jeurdi, dus filmavond op het kasteel. Een unieke manier om een film te zien onder de sterren. Bron: mairie-grimaud.fr 2. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities 3. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en",
+          "text": "2. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities 3. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Port Grimaud per boot of water taxi \u2013 Een rustige manier om de \"Proven\u00e7ale Veneti\u00eb\" te verkennen. - Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Saint-Tropez per boot \u2013 Richting de oude haven of Ramatuelle. Check de boottijden vroeg genoeg.",
+          "text": "Port Grimaud per water taxi of elektrische boot \u2013 Rustige manier om de \"Proven\u00e7aanse Veneti\u00eb\" te verkennen. - Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto.",
           "type": "context",
           "tags": [
             "Daily",
@@ -101,7 +101,7 @@ const source = {
         {
           "label": "Sources",
           "title": "Checked local agenda pages",
-          "text": "18 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
+          "text": "12 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
           "type": "context",
           "tags": [
             "Sources",
