@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-17 09:15 CEST",
-    "briefingFinished": "2026-07-17T09:03:28"
+    "updatedAt": "2026-07-18 09:15 CEST",
+    "briefingFinished": "2026-07-18T09:03:44"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-17 | morgen 2026-07-18",
+          "text": "2026-07-18 | morgen 2026-07-19",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "2. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities 3. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com",
+          "text": "1. Cin\u00e9ma au ch\u00e2teau (Ch\u00e2teau de Grimaud, 21:00) \u2013 Filmavond in het kasteel, ideaal voor een avond met cultuur en gezelschap. Bron: grimaud-provence.com 2. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com 3. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes.",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Port Grimaud per water taxi of elektrische boot \u2013 Rustige manier om de \"Proven\u00e7aanse Veneti\u00eb\" te verkennen. - Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto.",
+          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Strandwandeling in Ramatuelle \u2013 Mooie, rustige plek met fijne zandstranden en een sfeervolle kustlijn. Bron: dossiernotities",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Courses d\u2019orientation in Grimaud (17 juli, 10:00-12:00) \u2013 Actieve en educatieve activiteit in het dorp. Bron: grimaud-provence.com - Ludoth\u00e8que \u2013 Jeux de soci\u00e9t\u00e9 (25 juli, 15:00-17:00) \u2013 Speelavond voor kinderen, reserveren is aanbevolen. Bron: dossiernotities",
+          "text": "Ludoth\u00e8que \u2013 Jeux de soci\u00e9t\u00e9 (25 juli, 15:00-17:00) \u2013 Speelavond voor kinderen, reserveren is aanbevolen. Bron: grimaud-provence.com - Courses d\u2019orientation in Grimaud (17 juli, 10:00-12:00) \u2013 Actieve en educatieve activiteit in het dorp. Bron: grimaud-provence.com",
           "type": "context",
           "tags": [
             "Daily",
@@ -101,7 +101,7 @@ const source = {
         {
           "label": "Sources",
           "title": "Checked local agenda pages",
-          "text": "12 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
+          "text": "18 public local pages were checked by the morning briefing. Always recheck official pages before booking or driving.",
           "type": "context",
           "tags": [
             "Sources",
