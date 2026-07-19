@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-18 09:15 CEST",
-    "briefingFinished": "2026-07-18T09:03:44"
+    "updatedAt": "2026-07-19 09:15 CEST",
+    "briefingFinished": "2026-07-19T09:02:56"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-18 | morgen 2026-07-19",
+          "text": "2026-07-19 | morgen 2026-07-20",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "1. Cin\u00e9ma au ch\u00e2teau (Ch\u00e2teau de Grimaud, 21:00) \u2013 Filmavond in het kasteel, ideaal voor een avond met cultuur en gezelschap. Bron: grimaud-provence.com 2. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com 3. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes.",
+          "text": "2. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com 3. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Strandwandeling in Ramatuelle \u2013 Mooie, rustige plek met fijne zandstranden en een sfeervolle kustlijn. Bron: dossiernotities",
+          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Port Grimaud per boot of water taxi \u2013 Een rustige manier om de kanalen te verkennen. Bron: dossiernotities",
           "type": "context",
           "tags": [
             "Daily",
