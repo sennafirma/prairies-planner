@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-19 09:15 CEST",
-    "briefingFinished": "2026-07-19T09:02:56"
+    "updatedAt": "2026-07-20 09:15 CEST",
+    "briefingFinished": "2026-07-20T09:02:56"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-19 | morgen 2026-07-20",
+          "text": "2026-07-20 | morgen 2026-07-21",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Port Grimaud per boot of water taxi \u2013 Een rustige manier om de kanalen te verkennen. Bron: dossiernotities",
+          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Strandwandeling in Grimaud \u2013 Langzaam lopen langs de zandstranden met uitzicht op het Golfe de Saint-Tropez.",
           "type": "context",
           "tags": [
             "Daily",
