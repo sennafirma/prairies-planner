@@ -1,7 +1,7 @@
 const source = {
   "meta": {
-    "updatedAt": "2026-07-20 09:15 CEST",
-    "briefingFinished": "2026-07-20T09:02:56"
+    "updatedAt": "2026-07-21 09:15 CEST",
+    "briefingFinished": "2026-07-21T09:04:05"
   },
   "daily": {
     "do": [
@@ -41,7 +41,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Fresh briefing",
-          "text": "2026-07-20 | morgen 2026-07-21",
+          "text": "2026-07-21 | morgen 2026-07-22",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -51,7 +51,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Doen vandaag",
-          "text": "2. March\u00e9 artisanal nocturne in Port Grimaud (tot 22:00) \u2013 Avondmarkt met lokale handwerkers en verkoop. Mooie wandeling na de zonsondergang. Bron: grimaud-provence.com 3. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities",
+          "text": "1. Festival Les Grimaldines \u2013 Selah Sue & The Gallands (21 juli, Grimaud) \u2013 Muziekfestival in het centrum van Grimaud, met internationale en lokale artiesten. Mooi om te combineren met een wandeling door het middeleeuwse dorp. Bron: grimaud-provence.com 2. Plage de Rock (Les Prairies de la Mer, 19:00-22:00) \u2013 Live muziek op de camping zelf. Informele sfeer, meestal pop of rock. Kom met een stoel en geniet van de zomerse vibes. Bron: dossiernotities 3. Cin\u00e9",
           "type": "anchor",
           "tags": [
             "Daily",
@@ -61,7 +61,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Verkennen",
-          "text": "Ch\u00e2teau de Grimaud \u2013 Kasteel met uitzicht en historische waarde. Ideaal voor een wandeling of foto. - Strandwandeling in Grimaud \u2013 Langzaam lopen langs de zandstranden met uitzicht op het Golfe de Saint-Tropez.",
+          "text": "Port Grimaud per boot of water taxi \u2013 Laat je de charmante kanalen en witte gebouwen ontdekken met een boottocht. Ideaal om te ontspannen en de zee in te duiken. - Ch\u00e2teau de Grimaud en uitzicht \u2013 Kasteel met prachtig uitzicht over de baai. Combineer met een wandeling door het historische centrum van Grimaud.",
           "type": "context",
           "tags": [
             "Daily",
@@ -71,7 +71,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Weten",
-          "text": "Port Grimaud is gebouwd op moerasland vanaf 1966, ontworpen door architect Fran\u00e7ois Spoerry. Het werd bedoeld als een \"proven\u00e7aanse havenstad\" met een sterk visuele identiteit. Bron: dossiernotities",
+          "text": "Port Grimaud is ontworpen als een \"proven\u00e7aanse havenstad\" door architect Fran\u00e7ois Spoerry, gebouwd op moerasland vanaf 1966. Het is bekend als de \"Kleine Veneti\u00eb van Provence\" vanwege zijn kanalen en witte gebouwen. Bron: dossiernotities",
           "type": "context",
           "tags": [
             "Daily",
@@ -81,7 +81,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Met kinderen",
-          "text": "Ludoth\u00e8que \u2013 Jeux de soci\u00e9t\u00e9 (25 juli, 15:00-17:00) \u2013 Speelavond voor kinderen, reserveren is aanbevolen. Bron: grimaud-provence.com - Courses d\u2019orientation in Grimaud (17 juli, 10:00-12:00) \u2013 Actieve en educatieve activiteit in het dorp. Bron: grimaud-provence.com",
+          "text": "Ludoth\u00e8que \u2013 Jeux de soci\u00e9t\u00e9 (25 juli, 15:00-17:00, Grimaud) \u2013 Speelavond voor kinderen, reserveren is aanbevolen. Bron: grimaud-provence.com - Courses d\u2019orientation in Grimaud (17 juli, 10:00-12:00) \u2013 Actieve en educatieve activiteit in het dorp. Bron: grimaud-provence.com - Wateractiviteiten op de camping \u2013 De camping biedt vaak kindvriendelijke watersporten aan, zoals pedalo\u2019s of snorkelen. Vraag bij de receptie.",
           "type": "context",
           "tags": [
             "Daily",
@@ -91,7 +91,7 @@ const source = {
         {
           "label": "Updated",
           "title": "Let op",
-          "text": "De markten in Port Grimaud (elke zondag en donderdagochtend) zijn druk in de zomer. Kom vroeg als je een rustige ervaring wil. - De zon is sterk, dus zorg voor zonnecr\u00e8me, water en schaduw. - Check bij de receptie of er extra activiteiten zijn op de camping vandaag of morgen. - De agenda\u2019s van Grimaud en Saint-Tropez zijn betrouwbaar, maar sommige links zijn tijdelijk onbereikbaar.",
+          "text": "De markten in Port Grimaud (elke zondag en donderdagochtend) zijn druk in de zomer. Kom vroeg als je een rustige ervaring wil. - De zon is sterk, dus zorg voor zonnecr\u00e8me, water en schaduw. - Check bij de receptie of er extra activiteiten zijn op de camping vandaag of morgen. - De agenda\u2019s van Grimaud en Saint-Tropez zijn betrouwbaar, maar sommige links zijn tijdelijk onbereikbaar. - Denk aan reserveringen voor activiteiten of restaurants, vooral in de avo",
           "type": "context",
           "tags": [
             "Daily",
